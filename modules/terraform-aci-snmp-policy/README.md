@@ -78,11 +78,11 @@ module "aci_snmp_policy" {
 
 | Name | Type |
 |------|------|
-| [aci_rest_managed.snmpClientGrpP](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.snmpClientP](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.snmpCommunityP](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.snmpPol](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.snmpRsEpg](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.snmpTrapFwdServerP](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.snmpUserP](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.snmpClientGrpP](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.snmpClientP](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.snmpCommunityP](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.snmpPol](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.snmpRsEpg](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.snmpTrapFwdServerP](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.snmpUserP](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
 <!-- END_TF_DOCS -->

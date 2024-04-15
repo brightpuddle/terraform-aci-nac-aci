@@ -78,10 +78,10 @@ module "aci_syslog_policy" {
 
 | Name | Type |
 |------|------|
-| [aci_rest_managed.fileRsARemoteHostToEpg](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.syslogConsole](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.syslogFile](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.syslogGroup](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.syslogProf](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.syslogRemoteDest](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.fileRsARemoteHostToEpg](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.syslogConsole](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.syslogFile](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.syslogGroup](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.syslogProf](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.syslogRemoteDest](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
 <!-- END_TF_DOCS -->

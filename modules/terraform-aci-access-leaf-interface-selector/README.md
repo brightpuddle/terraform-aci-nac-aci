@@ -70,8 +70,8 @@ module "aci_access_leaf_interface_selector" {
 
 | Name | Type |
 |------|------|
-| [aci_rest_managed.infraHPortS](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.infraPortBlk](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.infraRsAccBaseGrp](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.infraSubPortBlk](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.infraHPortS](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.infraPortBlk](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.infraRsAccBaseGrp](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.infraSubPortBlk](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
 <!-- END_TF_DOCS -->

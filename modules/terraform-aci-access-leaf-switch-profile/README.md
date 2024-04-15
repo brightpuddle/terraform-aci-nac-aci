@@ -59,9 +59,9 @@ module "aci_access_leaf_switch_profile" {
 
 | Name | Type |
 |------|------|
-| [aci_rest_managed.infraLeafS](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.infraNodeBlk](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.infraNodeP](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.infraRsAccNodePGrp](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.infraRsAccPortP](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.infraLeafS](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.infraNodeBlk](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.infraNodeP](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.infraRsAccNodePGrp](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.infraRsAccPortP](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
 <!-- END_TF_DOCS -->

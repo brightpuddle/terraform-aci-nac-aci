@@ -80,11 +80,11 @@ No outputs.
 
 | Name | Type |
 |------|------|
-| [aci_rest_managed.aaaLdapGroupMap](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.aaaLdapGroupMapRule](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.aaaLdapGroupMapRuleRef](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.aaaLdapProvider](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.aaaRsSecProvToEpg](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.aaaUserDomain](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
-| [aci_rest_managed.aaaUserRole](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.aaaLdapGroupMap](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.aaaLdapGroupMapRule](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.aaaLdapGroupMapRuleRef](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.aaaLdapProvider](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.aaaRsSecProvToEpg](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.aaaUserDomain](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.aaaUserRole](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
 <!-- END_TF_DOCS -->

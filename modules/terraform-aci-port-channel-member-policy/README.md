@@ -51,5 +51,5 @@ module "aci_port_channel_member_policy" {
 
 | Name | Type |
 |------|------|
-| [aci_rest_managed.lacpIfPol](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.lacpIfPol](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
 <!-- END_TF_DOCS -->

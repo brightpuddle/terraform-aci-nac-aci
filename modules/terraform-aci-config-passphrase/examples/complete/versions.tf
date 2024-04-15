@@ -4,7 +4,7 @@ terraform {
 
   required_providers {
     aci = {
-      source  = "CiscoDevNet/aci"
+      source  = "brightpuddle/aci"
       version = ">= 2.6.0"
     }
   }

@@ -46,5 +46,5 @@ module "aci_system_global_gipo" {
 
 | Name | Type |
 |------|------|
-| [aci_rest_managed.fmcastSystemGIPoPol](https://registry.terraform.io/providers/CiscoDevNet/aci/latest/docs/resources/rest_managed) | resource |
+| [aci_rest_managed.fmcastSystemGIPoPol](https://registry.terraform.io/providers/brightpuddle/aci/latest/docs/resources/rest_managed) | resource |
 <!-- END_TF_DOCS -->

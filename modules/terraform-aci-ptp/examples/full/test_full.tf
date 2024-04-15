@@ -7,7 +7,7 @@ terraform {
     }
 
     aci = {
-      source  = "CiscoDevNet/aci"
+      source  = "brightpuddle/aci"
       version = ">=2.0.0"
     }
   }

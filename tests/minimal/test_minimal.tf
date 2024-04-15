@@ -6,7 +6,7 @@ terraform {
       source = "terraform.io/builtin/test"
     }
     aci = {
-      source  = "CiscoDevNet/aci"
+      source  = "brightpuddle/aci"
       version = "= 2.10.0"
     }
     utils = {
